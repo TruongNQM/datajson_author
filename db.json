@@ -1,0 +1,48 @@
+{
+  "company": [
+    {
+      "id": 1,
+      "user_msnv": "T01",
+      "department_id": 1,
+      "company_name": "Rikai",
+      "address": "Da Nang",
+      "phone_number": "0935666999",
+      "tax_code": "BKAXSAM",
+      "type": "type",
+      "active": true
+    },
+    {
+      "id": 2,
+      "user_msnv": "T02",
+      "department_id": "1",
+      "company_name": "Rikai",
+      "address": "Da Nang",
+      "phone_number": "0935666999",
+      "tax_code": "BKAXSAM",
+      "type": "type",
+      "active": true
+    },
+    {
+      "user_msnv": "T03",
+      "departmentName": "Dev",
+      "company_name": "Rikai 2",
+      "address": "Da nang",
+      "phone_number": "0935666777",
+      "tax_code": "BA29A",
+      "type": "Outsource",
+      "active": true,
+      "id": 3
+    }
+  ],
+  "users": [
+    {
+      "email": "bbb@mail.com",
+      "password": "$2a$10$BUUkVucDgSFxOv2/VXNCIOvRDHa4MWrjXFb.hHN6XplqSEyp1i6pi",
+      "roles": [
+        "admin",
+        "employee"
+      ],
+      "id": 1
+    }
+  ]
+}
